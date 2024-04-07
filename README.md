@@ -38,43 +38,42 @@ After that, autonomy is given to the player by opening up Path 2 and 3 to explor
 
 
 ## 2. Core Gameplay (~400 words)
-A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
 
-Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
+### 2.2. Checkpoints
+![imageGone>:(](DocImages/Checkpoint.png)
 
-You should restructure the headings below to match the order they appear in your level.
+### 2.11. Weapon Pickup (Staff)
+![imageGone>:(](DocImages/Weapon.png)
 
 ### 2.1. Acid
 ![imageGone>:(](DocImages/Acid.png)
-### 2.2. Checkpoints
-![imageGone>:(](DocImages/Checkpoint.png)
-### 2.3. Chompers
-![imageGone>:(](DocImages/Chomper.png)
-### 2.4. Health Pickups
-![imageGone>:(](DocImages/Health.png)
-### 2.5. Keys
-
-### 2.6. Moving Platforms
-
-### 2.7. Passthrough Platforms
 
 ### 2.8. Spikes
+
+### 2.4. Health Pickups
+![imageGone>:(](DocImages/Health.png)
 
 ### 2.9. Spitters
 
 ### 2.10. Weapon Pickup (Gun)
 
-### 2.11. Weapon Pickup (Staff)
+### 2.7. Passthrough Platforms
+
+### 2.3. Chompers
+![imageGone>:(](DocImages/Chomper.png)
+
+### 2.6. Moving Platforms
+![imageGone>:(](DocImages/MovingPlatform.png)
+
+### 2.5. Keys
+![imageGone>:(](DocImages/Key.png)
 
 ## 3. Spatiotemporal Design
-A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
 
-No additional words are necessary for this section (any words should only be within your images/diagrams).
- 
 ### 3.1. Molecule Diagram
 ![imageGone>:(](DocImages/Molecule.jpg)
 ### 3.2. Level Map – Section 1
-
+![imageGone>:(](DocImages/LevelMap1.jpg)
 ### 3.3.	Level Map – Section 2
 
 ### 3.4.	Level Map – Section 3
