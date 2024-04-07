@@ -72,7 +72,7 @@ A section on Spatiotemporal Design, which includes your molecule diagram and ann
 No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
-
+![imageGone>:(](DocImages/Molecule.jpg)
 ### 3.2. Level Map – Section 1
 
 ### 3.3.	Level Map – Section 2
