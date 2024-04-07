@@ -14,7 +14,7 @@ This can also be seen with the introduction of the gun.
 ![imageGone>:(](DocImages/IntroduceGun.png)
 The only way forward is to shoot the chomper, releasing the pressure plate and opening the door.
 However, this one requires a small extra step in which the player must actively divert their path from the obvious in order to retrieve the ability to shoot the gun. The player will understand that the (corpse?) has something to take due to them having taken their staff from the previous corpse.
-On the broader scope of player obejctives, the player starts the level in the very room that has the exit point for the level. As they venture through each path that eventually takes them back to this main room, the idea that the large door in the centre of the room is the requirement for leaving is planted in their mind. This is reinforced when the player encounters a key at the end of each discrete path, a hint to the final goal of the level. 
+On the broader scope of player obejctives, the player starts the level in the very room that has the exit point for the level. As they venture through each path that eventually takes them back to this main room, the idea that the large door in the centre of the room is the requirement for leaving is planted in their mind. This is reinforced when the player encounters a key at the end of each discrete path, a hint to the final goal of the level.
 
 ### 1.2. Drama
 Drama is employed by balancing damaging objects such as enemies, acid, or spikes, with checkpoints, health boxes, and objective completion.
